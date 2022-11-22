@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/dawn-academy/static/css/main.175beb56.css",
+    "main.js": "/dawn-academy/static/js/main.e754b7a9.js",
+    "static/media/miya.png": "/dawn-academy/static/media/miya.af759e51cf5e5869e64e.png",
+    "static/media/lunox.png": "/dawn-academy/static/media/lunox.13e7983e1edfe397d0ed.png",
+    "static/media/balmond.png": "/dawn-academy/static/media/balmond.950d85461db5dcd9e1c5.png",
+    "static/media/image1.jpg": "/dawn-academy/static/media/image1.da2c7e9d6f37dfb9f83c.jpg",
+    "static/media/hanabi.png": "/dawn-academy/static/media/hanabi.f90e8ac699f8ff9ef040.png",
+    "static/media/zilong.png": "/dawn-academy/static/media/zilong.f39d653465f76da82b54.png",
+    "index.html": "/dawn-academy/index.html",
+    "main.175beb56.css.map": "/dawn-academy/static/css/main.175beb56.css.map",
+    "main.e754b7a9.js.map": "/dawn-academy/static/js/main.e754b7a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.175beb56.css",
+    "static/js/main.e754b7a9.js"
+  ]
+}
