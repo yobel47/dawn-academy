@@ -1,7 +1,7 @@
 {
   "name": "dawn-academy",
   "version": "0.1.0",
-  "homepage": "https://yobel47.github.io/dawn-academy/",
+  "homepage": "https://dawnacademy.my.id/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
