@@ -88,7 +88,7 @@ function App() {
       <div className="w-full h-[85vh] bg-[#436FA0] flex">
         <img className="w-[70%] h-[90%] mt-12 img-fluid" fill="black" src={Miya} alt="homeImage" />
         <div className="flex w-[40%] pt-5 flex-col justify-center">
-          <div className="text-white text-5xl font-extrabold">Jadilah player terbaik di Land of Dawn</div>
+          <div className="text-white text-5xl font-extrabold">Jadilah player terbaik di Test</div>
           <div>
             <button type={"button"} className={`w-96 bg-[#0F3460] my-8 py-2 rounded-2xl text-white text-2xl font-bold`}>
               Jadi Pro Player Sekarang
