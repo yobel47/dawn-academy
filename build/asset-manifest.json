@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c44b5b7.css",
+    "main.js": "/static/js/main.5678efd3.js",
+    "static/media/miya.png": "/static/media/miya.af759e51cf5e5869e64e.png",
+    "static/media/lunox.png": "/static/media/lunox.13e7983e1edfe397d0ed.png",
+    "static/media/balmond.png": "/static/media/balmond.950d85461db5dcd9e1c5.png",
+    "static/media/image1.jpg": "/static/media/image1.da2c7e9d6f37dfb9f83c.jpg",
+    "static/media/hanabi.png": "/static/media/hanabi.f90e8ac699f8ff9ef040.png",
+    "static/media/zilong.png": "/static/media/zilong.f39d653465f76da82b54.png",
+    "index.html": "/index.html",
+    "main.7c44b5b7.css.map": "/static/css/main.7c44b5b7.css.map",
+    "main.5678efd3.js.map": "/static/js/main.5678efd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c44b5b7.css",
+    "static/js/main.5678efd3.js"
+  ]
+}
